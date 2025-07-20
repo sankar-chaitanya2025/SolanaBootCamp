@@ -42,8 +42,7 @@ I completed a range of hands-on projects that gradually ramped up in complexity.
 | 9   | Token Lottery           |
 | 10  | Lending                 |
 | 11  | Programmable Money      |
-| 12  | Attack the Bank         | 
-| 13  | Production Readiness    |
+
 
 Each one taught me something new—whether it was how accounts and on-chain programs work in Solana, handling tokens and NFTs, or thinking through security and deployment challenges.
 
